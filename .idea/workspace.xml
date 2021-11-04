@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32f665dd-cf97-41bd-a6cf-2300aa45428e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Anchor3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Anchor4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AnchorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Button2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Button3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Button4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Button5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Button6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CheckboxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Heading2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeadingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InputEmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InputNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Link2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LinkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RadioButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Span1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Span2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Span3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Span4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Span5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Span6Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Web" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1u2yZWqW8ZttBh45BE1MceoctZ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.6310345" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.Login">
+    <configuration name="CheckboxTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckboxTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioButtonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtonTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioButtonTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Span6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Span6Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Login" />
+        <item itemvalue="JUnit.Span6Test" />
+        <item itemvalue="JUnit.CheckboxTest.Test" />
+        <item itemvalue="JUnit.RadioButtonTest.Test" />
+        <item itemvalue="JUnit.RadioButtonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32f665dd-cf97-41bd-a6cf-2300aa45428e" name="Default Changelist" comment="" />
+      <created>1623878054589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623878054589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="WebTest" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
